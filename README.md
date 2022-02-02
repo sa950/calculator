@@ -1,4 +1,4 @@
 # calculator
 simple calculator
-for 
+for the following 
 add| subtract| multiply| division 
